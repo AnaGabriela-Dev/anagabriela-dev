@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ana Gabriela, and I'm 19 years old and I'm studing for Software engineering. <br><br> From an early age, I was captivated by the infinite possibilities that technology offers, and since then, I have been immersed in its fascinating world.
+My name is Ana Gabriela, and I'm 19 years old and I'm studing for Computer Science. <br><br> From an early age, I was captivated by the infinite possibilities that technology offers, and since then, I have been immersed in its fascinating world.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
